@@ -1,0 +1,4 @@
+test/config/CrossOriginResourceSharingFilter.class
+test/config/BootStrap.class
+test/service/ExampleService.class
+test/config/Producers.class
